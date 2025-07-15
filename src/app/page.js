@@ -50,7 +50,7 @@ const MachineOEECard = ({ machine }) => {
   const router = useRouter();
 
   const handleRedirect = () => {
-    // router.push(`/machine/${machine.toLowerCase()}`);
+
         router.push(`/machinedetails`);
   };
 
