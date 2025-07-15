@@ -7,19 +7,19 @@ const nextConfig = {
     return [
       {
         source: '/furnace/:path*',
-        destination: 'http://localhost:3001/:path*',
+        destination: '/:path*',
       },
       {
         source: '/uci/:path*',
-        destination: 'http://localhost:3002/:path*',
+        destination: '/:path*',
       },
       {
         source: '/dabur/:path*',
-        destination: 'http://localhost:3003/:path*',
+        destination: '/:path*',
       },
       {
         source: '/patanjali/:path*',
-        destination: 'http://localhost:3004/:path*',
+        destination: '/:path*',
       },
     ];
   },
