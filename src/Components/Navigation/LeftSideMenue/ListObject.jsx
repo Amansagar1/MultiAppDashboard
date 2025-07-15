@@ -7,22 +7,22 @@ const menuList = [
       {
         label: "UCI Dashboard",
         icon: "FaBarsStaggered",
-        link: "http://localhost:3002/uci/dashboardoverview",
+        link: "/uci/dashboardoverview",
       },
       {
      label: "Dabur Dashboard",
         icon: "FaBarsStaggered",
-        link: "http://localhost:3003/dabur/home",
+        link: "/dabur/home",
       },
       {
          label: "Furnace Dashboard",
         icon: "FaBarsStaggered",
-        link: "http://localhost:3001/furnace/overview",
+        link: "/furnace/overview",
       },
       {
         label: "Patanjali Dashboard",
         icon: "FaBarsStaggered",
-        link: "http://localhost:3004/patanjali/runtime",
+        link: "/patanjali/runtime",
       },
 
       // {
