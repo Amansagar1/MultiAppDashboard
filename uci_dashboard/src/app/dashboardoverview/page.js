@@ -1,12 +1,16 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { DateTime } from "luxon";
+import dynamic from 'next/dynamic';
 
-import KPICards from "../../Components/Dshboard/KPICards";
-import ProductionCharts from "../../Components/Dshboard/ProductionCharts";
-import RuntimeCharts from "../../Components/Dshboard/RuntimeCharts";
 
 const DashboardPage = () => {
+
+  const KPICards = dynamic(() => import("../../Components/Dshboard/KPICards"), { ssr: false });
+const ProductionCharts = dynamic(() => import("../../Components/Dshboard/ProductionCharts"), { ssr: false });
+const RuntimeCharts = dynamic(() => import("../../Components/Dshboard/RuntimeCharts"), { ssr: false });
+
+
   const assetNames = ["GRA", "GCS", "SPC"];
   const [overviewData, setOverviewData] = useState({});
   const [isLoading, setIsLoading] = useState(true);
