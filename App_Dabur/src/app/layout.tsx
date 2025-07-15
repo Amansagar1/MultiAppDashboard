@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { TitleProvider } from '../Components/Context/TitleContext';
 import { ThemeProvider } from '../Components/Context/ThemeContext';
-import { usePathname } from "next/navigation";
+// import { usePathname } from "next/navigation";
 import { BreadcrumbProvider } from '../Components/Context/BreadcrumbProvider';
 import Sidebar from '@/Components/Sidebar/Sidebar';
 import Navbar from "@/Components/Header/Navbar";
@@ -21,7 +21,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
-  const pathname = usePathname();
+  // const pathname = usePathname();
 
   const toggleSidebar = useCallback(() => {
     setIsSidebarCollapsed(prev => !prev);
@@ -45,10 +45,10 @@ export default function RootLayout({
       <body className={`${inter.variable} antialiased`}>
         <ThemeProvider>
           <TitleProvider>
-            <BreadcrumbProvider title={undefined}>
+            <BreadcrumbProvider >
               <ToastContainer />
               <div className="flex flex-col h-screen bg-gray-50">
-                <Navbar />
+                <Navbar onSignOut={undefined} propTitle={undefined} lastUpdated={undefined} />
                 <div className="flex flex-1 overflow-hidden">
                   <Sidebar
                     isCollapsed={isSidebarCollapsed}

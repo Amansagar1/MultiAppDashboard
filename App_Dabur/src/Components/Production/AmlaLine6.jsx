@@ -875,7 +875,7 @@ import React from 'react';
 import * as echarts from 'echarts';
 import { useEffect, useRef, useState } from 'react';
 import Breadcrumb from '@/Components/BreadCrumb/BreadcrumbRuntime';
-import { GetLineDetails, loadProfileLine6Main, loadProfileLine6Shrink, loadSummaryLine6Main, loadSummaryLine6Shrink, getOperatorMain6, getOperatorShrink6 } from '../../webServices/ApiControllers';
+// import { GetLineDetails, loadProfileLine6Main, loadProfileLine6Shrink, loadSummaryLine6Main, loadSummaryLine6Shrink, getOperatorMain6, getOperatorShrink6 } from '../../webServices/ApiControllers';
 
 const AmlaLine6Dashboard = () => {
     const mainLineLoadProfileRef = useRef(null);

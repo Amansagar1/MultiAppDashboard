@@ -8,11 +8,11 @@ import Image from "next/image";
 import Link from "next/link";
 import { useTitle } from '../../Components/Context/TitleContext';
 import { useTheme } from '../../Components/Context/ThemeContext';
-import { decodeToken } from "../../WebServices/ApiControllers";
+// import { decodeToken } from "../../WebServices/ApiControllers";
 import Cookies from "js-cookie";
 import { IoMdArrowDropup } from "react-icons/io";
 import { useBreadcrumb } from '../Context/BreadcrumbProvider';
-import ErrorNotification from "../../WebServices/ErrorNotification";
+// import ErrorNotification from "../../WebServices/ErrorNotification";
 
 
 const Navbar = ({ onSignOut, propTitle, lastUpdated }) => {
@@ -72,11 +72,11 @@ const Navbar = ({ onSignOut, propTitle, lastUpdated }) => {
     document.addEventListener("mousedown", handleClickOutside);
 
     // Get token and user info
-    const token = Cookies.get("dabur_token");
-    if (token) {
-      const decoded = decodeToken(token);
-      if (decoded) setUser(decoded);
-    }
+    // const token = Cookies.get("dabur_token");
+    // if (token) {
+    //   const decoded = decodeToken(token);
+    //   if (decoded) setUser(decoded);
+    // }
 
     // Get licenseType from cookies
     const licenseFromCookie = Cookies.get("dabur_licenseType");

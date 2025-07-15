@@ -426,7 +426,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Cookies from 'js-cookie';
 import Pagination from './pagination';
-import { getHistorialData, getAllDataModels } from '../../WebServices/ApiControllers';
+// import { getHistorialData, getAllDataModels } from '../../WebServices/ApiControllers';
 import { Download, Filter, RefreshCw, ChevronDown } from 'lucide-react';
 
 const ReportPage = () => {
