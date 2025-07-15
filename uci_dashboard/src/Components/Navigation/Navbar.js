@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef } from "react";
 import navlogo from "../../Components/Assets/Dashboard1.png";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { decodeToken } from "../../webServices/UCIAPIController";
+// import { decodeToken } from "../../webServices/UCIAPIController";
 import Cookies from "js-cookie";
 import { IoNotificationsOutline } from "react-icons/io5";
 import { RxHamburgerMenu } from "react-icons/rx";
@@ -41,11 +41,11 @@ const Navbar = ({ handleSignOut, toggleCollapse }) => {
     window.addEventListener("resize", handleResize);
     document.addEventListener("mousedown", handleClickOutside);
 
-    const token = Cookies.get("token");
-    if (token) {
-      const decoded = decodeToken(token);
-      if (decoded) setUser(decoded);
-    }
+    // const token = Cookies.get("token");
+    // if (token) {
+    //   const decoded = decodeToken(token);
+    //   if (decoded) setUser(decoded);
+    // }
 
     const licenseFromCookie = Cookies.get("licenseType");
     if (licenseFromCookie) {

@@ -11,7 +11,7 @@ import {
   Legend,
 } from "chart.js";
 import Image from "next/image";
-import { getLastValue } from "../../../../webServices/UCIAPIController";
+// import { getLastValue } from "../../../../webServices/UCIAPIController";
 import machinelogo from "../../../../Components/Assets/pngwing.com.png"
 // Register Chart.js components
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);

@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useRouter, usePathname } from "next/navigation";
 import Image from "next/image";
 import Cookies from "js-cookie";
-import { decodeToken } from "../../webServices/UCIAPIController";
+// import { decodeToken } from "../../webServices/UCIAPIController";
 import navlogo from "../../../public/images/image.png";
 import { IoNotificationsOutline } from "react-icons/io5";
 import { RxHamburgerMenu } from "react-icons/rx";
@@ -104,11 +104,11 @@ const Breadcrumb = ({ clickedMenu1, clickedSubMenu, handleSignOut, toggleCollaps
     const token = Cookies.get("token");
     const licenseFromCookie = Cookies.get("licenseType");
 
-    if (token) setUser(decodeToken(token));
-    if (licenseFromCookie) {
-      setLicenseType(licenseFromCookie);
-      checkLicenseStatus(licenseFromCookie);
-    }
+    // if (token) setUser(decodeToken(token));
+    // if (licenseFromCookie) {
+    //   setLicenseType(licenseFromCookie);
+    //   checkLicenseStatus(licenseFromCookie);
+    // }
 
     return () => {
       window.removeEventListener("resize", handleResize);

@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import { DateTime } from "luxon";
-import { getPerformanceIndex, getHisRuntimeDowntime } from "@/webServices/UCIAPIController";
+// import { getPerformanceIndex, getHisRuntimeDowntime } from "@/webServices/UCIAPIController";
 
 import KPISection from "@/Components/Automation/KPISection";
 import ChartsSection from "@/Components/Automation/ChartsSection";
