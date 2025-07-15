@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+
 // "use client";
 // import { useState, useEffect } from "react";
 // import { FaEdit, FaSave, FaTrash, FaPlus } from "react-icons/fa";
@@ -633,7 +633,7 @@ import { useState, useEffect } from "react";
 import NotificationObjectTable from "../../../Components/Alert/NotificationObjectTable";
 import AlertTriggerTable from "../../../Components/Alert/AlertTriggerTable";
 import UsersTable from "../../../Components/Alert/UsersTable";
-import AddUser from '../../../Components/Adduser/Adduser';  
+// import AddUser from '../../../Components/Adduser/Adduser';  
 import AddTrigger from '../../../Components/AddTriger/AddTrigger'; 
 import data from '../../../../sample.json';
 
@@ -745,7 +745,7 @@ const NotificationTable = () => {
         </>
       )}
 
-      {isAddUserOpen && <AddUser close={() => setIsAddUserOpen(false)} />}
+      {/* {isAddUserOpen && <AddUser close={() => setIsAddUserOpen(false)} />} */}
       {isAddTriggerOpen && <AddTrigger close={() => setIsAddTriggerOpen(false)} />}
     </div>
   );
