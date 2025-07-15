@@ -4,11 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "npm-run-all --parallel dev:app_machin dev:App_Furnace dev:uci_dashboard dev:App_Dabur dev:App_Patanjali",
-    "dev:app_machin": "cross-env PORT=3000 next dev",
-    "dev:App_Furnace": "cross-env PORT=3001 npm run dev --prefix ./App_Furnace",
-    "dev:uci_dashboard": "cross-env PORT=3002 npm run dev --prefix ./uci_dashboard",
-    "dev:App_Dabur": "cross-env PORT=3003 npm run dev --prefix ./App_Dabur",
-    "dev:App_Patanjali": "cross-env PORT=3004 npm run dev --prefix ./App_Patanjali",
+    "dev:app_machin": " next dev",
+    "dev:App_Furnace": " npm run dev --prefix ./App_Furnace",
+    "dev:uci_dashboard": "npm run dev --prefix ./uci_dashboard",
+    "dev:App_Dabur": "npm run dev --prefix ./App_Dabur",
+    "dev:App_Patanjali": "npm run dev --prefix ./App_Patanjali",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
