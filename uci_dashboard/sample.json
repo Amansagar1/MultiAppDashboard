@@ -1,0 +1,603 @@
+
+    {
+        "instanceId": "e82891f7-ec87-4790-81f8-b65dbcf7befc",
+        "tenantId": "16bdaab1-b43e-40a7-b070-60bfeb3611cc",
+        "interfaceModel": "ds.im.alert.notification",
+        "classModel": "ds.im.notification.service",
+        "instanceName": "notification",
+        "description": "This is the configuration for notification engine",
+        "version": 7,
+        "configuration": {
+            "updateRate": 10,
+            "enable": true,
+            "alarmTrigger": {
+                "lin4main_noloadON": {
+                    "enabled": true,
+                    "instanceId": "39ff4795-63f7-4c3c-afe5-90d5133115d7",
+                    "alarmTypeId": "1",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 4 Main is Power Off from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-4 Main",
+                            "Minute": "15",
+                            "OpeartionStatus": "Power Off",
+                            "Severity": "Critical"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": false,
+                        "senderId": "UNICTK",
+                        "route_id": "2",
+                        "Template_id": "1707173772053657142",
+                        "timezoneId": "India Standard Time",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 6-Shrinking Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                },
+                "line4Shrinking_noloadON": {
+                    "enabled": true,
+                    "instanceId": "27ab18b6-152b-4382-8801-dd87b4726418",
+                    "alarmTypeId": "1",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 4 Shrinking is Power Off from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-4 Shrinking",
+                            "Minute": "15",
+                            "OpeartionStatus": "Power Off",
+                            "Severity": "Critical"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": false,
+                        "senderId": "UNICTK",
+                        "route_id": "2",
+                        "Template_id": "1707173772053657142",
+                        "timezoneId": "India Standard Time",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 6-Shrinking Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "timezoneId": "India Standard Time",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                },
+                "line6main_noloadON": {
+                    "enabled": true,
+                    "instanceId": "2e1cc646-e595-4ccc-9638-c5a14a1c98c0",
+                    "alarmTypeId": "1",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 6 Main is Power Off from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-6 Main",
+                            "Minute": "15",
+                            "OpeartionStatus": "Power Off",
+                            "Severity": "Critical"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": false,
+                        "senderId": "UNICTK",
+                        "route_id": "2",
+                        "Template_id": "1707173772053657142",
+                        "timezoneId": "India Standard Time",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 6-Shrinking Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": "pratap.singh@yunometa.com"
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                },
+                "line6shrinking_noloadON": {
+                    "enabled": true,
+                    "instanceId": "bea95977-dba1-4d88-8ef2-b787102f379e",
+                    "alarmTypeId": "1",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 6 Shrinking is Power Off from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-6 Shrinking",
+                            "Minute": "15",
+                            "OpeartionStatus": "Power off",
+                            "Severity": "Critical"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": false,
+                        "senderId": "UNICTK",
+                        "route_id": "2",
+                        "timezoneId": "India Standard Time",
+                        "Template_id": "1707173772053657142",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 6-Shrinking Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": "pratap.singh@yunometa.com"
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                },
+                "line4main_IdleOn": {
+                    "enabled": true,
+                    "instanceId": "39ff4795-63f7-4c3c-afe5-90d5133115d7",
+                    "alarmTypeId": "2",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 4 Main is Idle from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-4 Main",
+                            "Minute": "15",
+                            "OpeartionStatus": "Idle",
+                            "Severity": "Medium"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": true,
+                        "senderId": "UNICTK",
+                        "route_id": "2",
+                        "timezoneId": "India Standard Time",
+                        "Template_id": "1707173772053657142",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 4-main Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": "pratap.singh@yunometa.com"
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                },
+                "line4Shrinking_idleON": {
+                    "enabled": true,
+                    "instanceId": "27ab18b6-152b-4382-8801-dd87b4726418",
+                    "alarmTypeId": "2",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 4 Shrinking is Idle from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-4 Shrinking",
+                            "Minute": "15",
+                            "OpeartionStatus": "Idle",
+                            "Severity": "Medium"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": true,
+                        "senderId": "UNICTK",
+                        "timezoneId": "India Standard Time",
+                        "route_id": "2",
+                        "Template_id": "1707173772053657142",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 4-Shrinking Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": "pratap.singh@yunometa.com"
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                },
+                "line6main_IdleON": {
+                    "enabled": true,
+                    "instanceId": "2e1cc646-e595-4ccc-9638-c5a14a1c98c0",
+                    "alarmTypeId": "2",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 6 Main is Idle from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-6 Main",
+                            "Minute": "15",
+                            "OpeartionStatus": "Idle",
+                            "Severity": "Medium"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": true,
+                        "senderId": "UNICTK",
+                        "timezoneId": "India Standard Time",
+                        "route_id": "2",
+                        "Template_id": "1707173772053657142",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 6-main Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": "pratap.singh@yunometa.com"
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                },
+                "line6shrinking_Idle": {
+                    "enabled": true,
+                    "instanceId": "bea95977-dba1-4d88-8ef2-b787102f379e",
+                    "alarmTypeId": "2",
+                    "condition": "value == true",
+                    "email": {
+                        "enabled": true,
+                        "subject": "Alert: Line 6 Shrinking is Idle from last 15 minutes ",
+                        "messageKeyValuePair": {
+                            "ProductLine": "Amla Line-6 Shrinking",
+                            "Minute": "15",
+                            "OpeartionStatus": "Idle",
+                            "Severity": "Critical"
+                        },
+                        "emailTemplateInstanceId": "dc0a8b0a-d6ea-48ad-b415-896143598fdc"
+                    },
+                    "sms": {
+                        "enabled": true,
+                        "senderId": "UNICTK",
+                        "timezoneId": "India Standard Time",
+                        "route_id": "2",
+                        "Template_id": "1707173772053657142",
+                        "mobile": "9980035361,9993067969",
+                        "text": "Alert from the Amla Line, 6-Shrinking Line is idle from last 15 mins, at time: {trigger_time} please check the Application for more details, From Unica Token"
+                    },
+                    "users": [
+                        {
+                            "enabled": true,
+                            "name": "Pratap Singh",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pratap.singh@yunometa.com",
+                            "mobileNo": "pratap.singh@yunometa.com"
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Niraj",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "nirajkumar@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Pooja",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "pooja@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Priya Pinto",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "priya.pinto@yunometa.com",
+                            "mobileNo": ""
+                        },
+                        {
+                            "enabled": true,
+                            "name": "Ravish",
+                            "timezoneId": "India Standard Time",
+                            "location": "",
+                            "role": "",
+                            "emailId": "rvslife@outlook.com",
+                            "mobileNo": ""
+                        }
+                    ]
+                }
+            }
+        },
+        "creationtime": "2025-01-29T21:29:12.462Z",
+        "lastupdatetime": "2025-02-02T01:40:35.742Z",
+        "publishRequired": false
+    }

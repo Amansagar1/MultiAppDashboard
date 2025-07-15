@@ -1,0 +1,1 @@
+docker build . -t   rvslifedoc/digitalsync.edgematic:ds.ext.uci.dashboard-dev_19thMay --push

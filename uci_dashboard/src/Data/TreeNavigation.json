@@ -1,0 +1,120 @@
+{
+    "Plant": {
+      "IN_PUN_01": {
+        "Production Line": {
+          "SPC": {
+            "Robots": [],
+            "Laser Cutting Machine": [],
+            "Piercing Press Machine": [],
+            "Forming Press Machines": [],
+            "Conveyor": [],
+            "Laser Marking Machine": []
+          },
+          "GRA": {
+            "Robots": [],
+            "Laser Cutting Machine": [],
+            "ADH Press Brake Machine": [],
+            "Assembly Fixtures": [],
+            "Conveyor": [],
+            "Pin Press SPM": []
+          },
+          "GCS_WC": {
+            "Robots": [],
+            "Laser Cutting Machines": [],
+            "ADH Press Brake Machines": [],
+            "Assembly": [],
+            "Conveyor": []
+          },
+          "GCS_WB": {
+            "Robots": [],
+            "Laser Cutting Machines": [],
+            "ADH Press Brake Machines": [],
+            "Assembly and conveyor": []
+          }
+        },
+        "Reports": {}
+      },
+      "IN_PUN_02": {
+        "Production Line": {
+          "SPC": {
+            "Robots": [],
+            "Laser Cutting Machine": [],
+            "Piercing Press Machine": [],
+            "Forming Press Machines": [],
+            "Conveyor": [],
+            "Laser Marking Machine": []
+          },
+          "GRA": {
+            "Robots": [],
+            "Laser Cutting Machine": [],
+            "ADH Press Brake Machine": [],
+            "Assembly Fixtures": [],
+            "Conveyor": [],
+            "Pin Press SPM": []
+          },
+          "GCS_WC": {
+            "Robots": [],
+            "Laser Cutting Machines": [],
+            "ADH Press Brake Machines": [],
+            "Assembly": [],
+            "Conveyor": []
+          },
+          "GCS_WB": {
+            "Robots": [],
+            "Laser Cutting Machines": [],
+            "ADH Press Brake Machines": [],
+            "Assembly and conveyor": []
+          }
+        },
+        "Reports": {}
+      },
+      "US_TEX_01": {
+        "Production Line": {
+          "SPC": {
+            "Robots": [],
+            "Laser Cutting Machine": [],
+            "Piercing Press Machine": [],
+            "Forming Press Machines": [],
+            "Conveyor": [],
+            "Laser Marking Machine": []
+          },
+          "GRA": {
+            "Robots": [],
+            "Laser Cutting Machine": [],
+            "ADH Press Brake Machine": [],
+            "Assembly Fixtures": [],
+            "Conveyor": [],
+            "Pin Press SPM": []
+          },
+          "GCS_WC": {
+            "Robots": [],
+            "Laser Cutting Machines": [],
+            "ADH Press Brake Machines": [],
+            "Assembly": [],
+            "Conveyor": []
+          },
+          "GCS_WB": {
+            "Robots": [],
+            "Laser Cutting Machines": [],
+            "ADH Press Brake Machines": [],
+            "Assembly and conveyor": []
+          }
+        },
+        "Reports": {}
+      }
+    },
+    "Settings": {
+      "User Management": {
+        "Users": [],
+        "Add User": {}
+      },
+      "Alarm Management": {},
+      "Notifications": {},
+      "Access Permission": {},
+      "Plant Management": {
+        "Add Plant": {},
+        "Remove Plant": {}
+      }
+    }
+  }
+  

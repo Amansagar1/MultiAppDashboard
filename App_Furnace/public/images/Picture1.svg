@@ -1,0 +1,266 @@
+<svg width="1347" height="439" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+	<defs>
+		<clipPath id="clip0">
+			<rect x="-66" y="34" width="1347" height="439" />
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip0)" transform="translate(66 -34)">
+		<path d="M1247.15 169.357 1252.54 169.357 1252.54 225.538 1247.15 225.538ZM1134.46 164.5 1259.5 164.5 1259.5 169.325 1173.88 169.325 1173.88 225.316 1168.5 225.316 1168.5 169.325 1155.43 169.325 1155.43 169.612 943.996 169.612 943.996 169.681 819.929 169.681 819.929 224.382 820.407 224.382 820.407 230.655 819.929 230.655 814.87 230.655 777.392 230.655 777.392 259.5 770.5 259.5 770.5 230.655 770.5 224.929 770.5 224.382 814.87 224.382 814.87 164.52 819.929 164.52 819.929 164.633 939.51 164.633 939.51 164.549 1134.46 164.549Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#7F7F7F" fill-rule="evenodd" />
+		<rect x="674.5" y="255.5" width="132" height="199" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FBE5D6" />
+		<rect x="696.5" y="259.5" width="89" height="127" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#F4B183" />
+		<rect x="658.5" y="454.5" width="165" height="17" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" />
+		<path d="M710.5 386C710.5 382.41 713.634 379.5 717.5 379.5 721.366 379.5 724.5 382.41 724.5 386 724.5 389.59 721.366 392.5 717.5 392.5 713.634 392.5 710.5 389.59 710.5 386Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M707.5 386.5C707.5 380.977 711.977 376.5 717.5 376.5 723.023 376.5 727.5 380.977 727.5 386.5 727.5 392.023 723.023 396.5 717.5 396.5 711.977 396.5 707.5 392.023 707.5 386.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M754.5 386C754.5 382.41 757.634 379.5 761.5 379.5 765.366 379.5 768.5 382.41 768.5 386 768.5 389.59 765.366 392.5 761.5 392.5 757.634 392.5 754.5 389.59 754.5 386Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M750.5 386C750.5 380.753 755.201 376.5 761 376.5 766.799 376.5 771.5 380.753 771.5 386 771.5 391.247 766.799 395.5 761 395.5 755.201 395.5 750.5 391.247 750.5 386Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M635.458 432.524C632.498 428.681 633.677 422.808 638.093 419.408 642.508 416.007 648.487 416.366 651.447 420.21 654.407 424.054 653.228 429.926 648.813 433.327 644.397 436.727 638.418 436.368 635.458 432.524Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M641.421 416.844 657.28 411.122 663.89 429.44 648.032 435.163Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M633.957 374.818C634.391 369.986 639.243 366.474 644.793 366.972 650.344 367.471 654.492 371.792 654.058 376.624 653.623 381.456 648.772 384.969 643.221 384.47 637.671 383.972 633.523 379.65 633.957 374.818Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M648.977 367.348 664.509 373.907 656.933 391.848 641.401 385.289Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M662.727 378.748 674.107 383.554 674.107 395.074 658.598 388.525 662.727 378.748Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M674.107 410.527 674.107 421.81 662.858 425.869 659.256 415.887 674.107 410.527Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M842.524 370.716C845.404 374.62 844.103 380.467 839.618 383.775 835.133 387.083 829.163 386.6 826.283 382.695 823.403 378.791 824.705 372.944 829.189 369.636 833.674 366.328 839.645 366.812 842.524 370.716Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M836.237 386.268 820.263 391.661 814.034 373.209 830.008 367.817Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M845.5 425C845.5 429.694 840.799 433.5 835 433.5 829.201 433.5 824.5 429.694 824.5 425 824.5 420.306 829.201 416.5 835 416.5 840.799 416.5 845.5 420.306 845.5 425Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M830.308 433.115 814.252 427.972 820.192 409.425 836.248 414.568Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M815.294 377.5 818.5 387.314 806.5 391.5 806.5 380.567 815.294 377.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<path d="M806.5 409.5 819.5 413.618 816.299 423.5 806.5 420.396 806.5 409.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#595959" fill-rule="evenodd" />
+		<rect x="720.5" y="274.5" width="41" height="89" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#EDEDED" />
+		<path d="M1158.26 209.007 1158.26 238.048 1183.84 238.048 1183.84 209.007ZM1139 204 1202 204 1202 209.007 1192.17 209.007 1192.17 238.048 1202 238.048 1202 347 1139 347 1139 238.048 1149.93 238.048 1149.93 209.007 1139 209.007Z" fill="#C55A11" fill-rule="evenodd" />
+		<rect x="1167" y="230" width="7" height="7" fill="#FFD966" />
+		<rect x="1168" y="225" width="5" height="5" fill="#FFD966" />
+		<path d="M1236.26 209.007 1236.26 238.048 1261.84 238.048 1261.84 209.007ZM1217 204 1280 204 1280 209.007 1270.17 209.007 1270.17 238.048 1280 238.048 1280 347 1217 347 1217 238.048 1227.93 238.048 1227.93 209.007 1217 209.007Z" fill="#C55A11" fill-rule="evenodd" />
+		<rect x="1245" y="230" width="7" height="7" fill="#FFD966" />
+		<rect x="1246" y="225" width="5" height="5" fill="#FFD966" />
+		<rect x="1168.5" y="175.5" width="5" height="12" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1164.5" y="187.5" width="13" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1167.5" y="191.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1173.5" y="179.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M1180 186 1180 197.766" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1177.5 183.5 1181.05 185.837" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="1151.5" y="162.5" width="8" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1153.5" y="154.5" width="5" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M1138.5 136.5C1138.5 126.559 1145.89 118.5 1155 118.5 1164.11 118.5 1171.5 126.559 1171.5 136.5 1171.5 146.441 1164.11 154.5 1155 154.5 1145.89 154.5 1138.5 146.441 1138.5 136.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+		<text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="11" transform="translate(1142.76 140)">
+			234.1
+		</text>
+		<rect x="1076.5" y="160.5" width="21" height="11" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1097.5" y="153.5" width="7" height="25" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1104.5" y="159.5" width="8" height="13" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1083.5" y="147.5" width="7" height="13" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M1095 147 1116.5 147" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1090.5 154.338 1094.77 147.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="1038.5" y="103.5" width="6" height="45" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1039.5" y="153.5" width="5" height="11" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1036.5" y="149.5" width="12" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1038.5" y="146.5" width="7" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1032.5" y="157.5" width="7" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M1032 154.144 1032 143" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1035.92 156.714 1032.5 154.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1056.5 112.5C1056.5 108.634 1059.63 105.5 1063.5 105.5 1067.37 105.5 1070.5 108.634 1070.5 112.5 1070.5 116.366 1067.37 119.5 1063.5 119.5 1059.63 119.5 1056.5 116.366 1056.5 112.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1053.5 113C1053.5 107.201 1057.98 102.5 1063.5 102.5 1069.02 102.5 1073.5 107.201 1073.5 113 1073.5 118.799 1069.02 123.5 1063.5 123.5 1057.98 123.5 1053.5 118.799 1053.5 113Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1012.5 112.5C1012.5 108.634 1015.63 105.5 1019.5 105.5 1023.37 105.5 1026.5 108.634 1026.5 112.5 1026.5 116.366 1023.37 119.5 1019.5 119.5 1015.63 119.5 1012.5 116.366 1012.5 112.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1009.5 113C1009.5 107.201 1013.75 102.5 1019 102.5 1024.25 102.5 1028.5 107.201 1028.5 113 1028.5 118.799 1024.25 123.5 1019 123.5 1013.75 123.5 1009.5 118.799 1009.5 113Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="1029.5" y="109.5" width="24" height="6" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1039.5" y="92.5001" width="5" height="11" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1036.5" y="88.5001" width="12" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1038.5" y="84.5001" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1032.5" y="95.5001" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M1032 93.1438 1032 82" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1035.92 95.7136 1032.5 93.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1035.5 73.5001C1035.5 69.6341 1038.63 66.5001 1042.5 66.5001 1046.37 66.5001 1049.5 69.6341 1049.5 73.5001 1049.5 77.366 1046.37 80.5001 1042.5 80.5001 1038.63 80.5001 1035.5 77.366 1035.5 73.5001Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1032.5 74.0001C1032.5 68.2011 1036.98 63.5001 1042.5 63.5001 1048.02 63.5001 1052.5 68.2011 1052.5 74.0001 1052.5 79.799 1048.02 84.5001 1042.5 84.5001 1036.98 84.5001 1032.5 79.799 1032.5 74.0001Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="1016.5" y="155.5" width="4" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1020.5" y="155.5" width="3.99994" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1058.5" y="154.5" width="4" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1062.5" y="154.5" width="4" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1023.5" y="163.5" width="34.9999" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="960.5" y="149.5" width="6" height="14" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="960.5" y="169.5" width="6" height="14" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="948.5" y="163.5" width="32" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M959.469 156.5 968.531 156.5 968.531 162.469 974.5 162.469 974.5 171.531 968.531 171.531 968.531 177.5 959.469 177.5 959.469 171.531 953.5 171.531 953.5 162.469 959.469 162.469Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" fill-rule="evenodd" />
+		<rect x="943.5" y="155.5" width="2" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="946.5" y="155.5" width="2" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="980.5" y="155.5" width="2" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="982.5" y="155.5" width="2" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="952.5" y="147.5" width="22" height="2" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="952.5" y="144.5" width="22" height="2" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="952.5" y="185.5" width="22" height="2" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="952.5" y="182.5" width="22" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="908.5" y="142.5" width="17" height="47" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="906.5" y="189.5" width="21" height="5" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="906.5" y="137.5" width="21" height="5" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="13" transform="translate(889.657 208)">
+			Gas Filter
+		</text>
+		<rect x="851.5" y="153.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="855.5" y="153.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="893.5" y="152.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="897.5" y="152.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="857.5" y="160.5" width="35" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="871.5" y="128.5" width="11" height="21" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="864.5" y="121.5" width="24" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="869.5" y="114.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="857.5" y="135.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M857 130.499 857 109" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M864.338 135.77 857.5 131.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="871.5" y="142.5" width="11" height="26" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M869.5 104C869.5 99.8579 872.634 96.5001 876.5 96.5001 880.366 96.5001 883.5 99.8579 883.5 104 883.5 108.142 880.366 111.5 876.5 111.5 872.634 111.5 869.5 108.142 869.5 104Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M866.5 104.5C866.5 98.9772 870.977 94.5001 876.5 94.5001 882.023 94.5001 886.5 98.9772 886.5 104.5 886.5 110.023 882.023 114.5 876.5 114.5 870.977 114.5 866.5 110.023 866.5 104.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M660.5 164.5 667.14 164.5 667.14 224.405 711.5 224.405 711.5 230.41 711.5 230.41 711.5 258.5 704.809 258.5 704.809 231.044 667.14 231.044 667.14 231.045 660.5 231.045Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#767171" fill-rule="evenodd" />
+		<rect x="0" y="0" width="695" height="6" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#767171" transform="matrix(1 0 0 -1 -27.5001 169.5)" />
+		<rect x="619.5" y="162.5" width="22" height="11" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="641.5" y="155.5" width="7" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="648.5" y="160.5" width="7" height="14" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="627.5" y="148.5" width="7" height="14" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M638 148 659.499 148" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M634.5 155.338 638.77 148.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="613.5" y="155.5" width="7" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M572.5 138.5 596.159 138.5 596.159 202.063 596.5 203.721C596.5 210.226 591.128 215.5 584.5 215.5 579.53 215.5 575.265 212.534 573.443 208.306L572.84 205.375 572.5 205.375 572.5 203.721Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" fill-rule="evenodd" />
+		<rect x="581.5" y="215.5" width="6" height="12" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<rect x="578.5" y="227.5" width="12" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<rect x="581.5" y="231.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<rect x="587.5" y="220.5" width="7" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<path d="M594 226 594 237.766" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="#70AD47" fill-rule="evenodd" />
+		<path d="M590.5 223.5 594.052 225.837" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="#70AD47" fill-rule="evenodd" />
+		<rect x="580.5" y="122.5" width="6" height="12" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<rect x="577.5" y="118.5" width="12" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<rect x="580.5" y="114.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<rect x="573.5" y="126.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<path d="M573 123.766 573 112" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="#70AD47" fill-rule="evenodd" />
+		<path d="M577.052 125.837 573.5 123.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="#70AD47" fill-rule="evenodd" />
+		<rect x="564.5" y="133.5" width="39" height="5" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<rect x="564.5" y="136.5" width="39" height="5" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#70AD47" />
+		<path d="M565.5 94.5001C565.5 84.5589 573.559 76.5001 583.5 76.5001 593.441 76.5001 601.5 84.5589 601.5 94.5001 601.5 104.441 593.441 112.5 583.5 112.5 573.559 112.5 565.5 104.441 565.5 94.5001Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFFF" fill-rule="evenodd" />
+		<rect x="509.5" y="156.5" width="4" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="513.5" y="156.5" width="4" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="551.5" y="155.5" width="4" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="555.5" y="155.5" width="4" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="516.5" y="163.5" width="35" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="530.5" y="131.5" width="10" height="21" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="523.5" y="124.5" width="24" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="528.5" y="116.5" width="14" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="516.5" y="138.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M516 133.499 516 112" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M523.338 137.77 516.5 133.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="530.5" y="145.5" width="10" height="26" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M528.5 106.5C528.5 102.634 531.634 99.5001 535.5 99.5001 539.366 99.5001 542.5 102.634 542.5 106.5 542.5 110.366 539.366 113.5 535.5 113.5 531.634 113.5 528.5 110.366 528.5 106.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M525.5 107C525.5 101.201 529.977 96.5001 535.5 96.5001 541.023 96.5001 545.5 101.201 545.5 107 545.5 112.799 541.023 117.5 535.5 117.5 529.977 117.5 525.5 112.799 525.5 107Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="484.5" y="142.5" width="17" height="46" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="482.5" y="188.5" width="21" height="5" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="482.5" y="137.5" width="21" height="5" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="436.5" y="161.5" width="21" height="11" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="457.5" y="155.5" width="7" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="464.5" y="160.5" width="7" height="14" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="443.5" y="148.5" width="7" height="13" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M454 148 475.499 148" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M450.5 155.338 454.77 148.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="398.5" y="101.5" width="6" height="45" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="399.5" y="151.5" width="5" height="12" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="396.5" y="148.5" width="12" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="398.5" y="144.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="392.5" y="155.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M392 153.144 392 142" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M395.924 155.714 392.5 153.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M416.5 111C416.5 106.858 419.634 103.5 423.5 103.5 427.366 103.5 430.5 106.858 430.5 111 430.5 115.142 427.366 118.5 423.5 118.5 419.634 118.5 416.5 115.142 416.5 111Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M413.5 111C413.5 105.201 417.977 100.5 423.5 100.5 429.023 100.5 433.5 105.201 433.5 111 433.5 116.799 429.023 121.5 423.5 121.5 417.977 121.5 413.5 116.799 413.5 111Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M372.5 111C372.5 106.858 375.634 103.5 379.5 103.5 383.366 103.5 386.5 106.858 386.5 111 386.5 115.142 383.366 118.5 379.5 118.5 375.634 118.5 372.5 115.142 372.5 111Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M369.5 111C369.5 105.201 373.753 100.5 379 100.5 384.247 100.5 388.5 105.201 388.5 111 388.5 116.799 384.247 121.5 379 121.5 373.753 121.5 369.5 116.799 369.5 111Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="389.5" y="107.5" width="24" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="399.5" y="90.5001" width="5" height="11" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="396.5" y="86.5001" width="12" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="398.5" y="83.5001" width="7" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="392.5" y="94.5001" width="7" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M392 91.1438 392 80" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M395.924 93.7136 392.5 91.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M395.5 72.0001C395.5 67.8579 398.634 64.5001 402.5 64.5001 406.366 64.5001 409.5 67.8579 409.5 72.0001 409.5 76.1422 406.366 79.5001 402.5 79.5001 398.634 79.5001 395.5 76.1422 395.5 72.0001Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M392.5 72.5001C392.5 66.9772 396.977 62.5001 402.5 62.5001 408.023 62.5001 412.5 66.9772 412.5 72.5001 412.5 78.0229 408.023 82.5001 402.5 82.5001 396.977 82.5001 392.5 78.0229 392.5 72.5001Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="376.5" y="153.5" width="4" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="380.5" y="153.5" width="4" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="418.5" y="153.5" width="4" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="422.5" y="153.5" width="4" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="383.5" y="161.5" width="35" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="317.5" y="154.5" width="3" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="321.5" y="154.5" width="3" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="359.5" y="154.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="363.5" y="154.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="323.5" y="161.5" width="35" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="337.5" y="129.5" width="11" height="22" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="330.5" y="122.5" width="24" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="335.5" y="115.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="323.5" y="136.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M323 132.499 323 111" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M330.338 136.77 323.5 132.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="337.5" y="144.5" width="11" height="26" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M335.5 105.5C335.5 101.634 338.858 98.5001 343 98.5001 347.142 98.5001 350.5 101.634 350.5 105.5 350.5 109.366 347.142 112.5 343 112.5 338.858 112.5 335.5 109.366 335.5 105.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M332.5 106C332.5 100.201 336.977 95.5001 342.5 95.5001 348.023 95.5001 352.5 100.201 352.5 106 352.5 111.799 348.023 116.5 342.5 116.5 336.977 116.5 332.5 111.799 332.5 106Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="246.5" y="141.5" width="17" height="46" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="244.5" y="187.5" width="21" height="5" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="244.5" y="136.5" width="21" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="270.5" y="161.5" width="21" height="11" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="291.5" y="154.5" width="7" height="25" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="298.5" y="160.5" width="7" height="13" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="277.5" y="148.5" width="7" height="13" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M288 148 309.499 148" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M284.5 155.338 288.77 148.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M32.8618 0 23.1383 0 23.1383 11.7232 11.5526 25.7654 0 25.7654 0 39 56 39 56 25.7654 44.4476 25.7654 32.8618 11.7232Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" fill-rule="evenodd" transform="matrix(-1 -8.74228e-08 -8.74228e-08 1 230.5 134.5)" />
+		<rect x="109.5" y="154.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="113.5" y="154.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="151.5" y="153.5" width="3" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="155.5" y="153.5" width="3" height="24" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="115.5" y="161.5" width="35" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="129.5" y="129.5" width="11" height="21" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="122.5" y="122.5" width="24" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="127.5" y="115.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="115.5" y="136.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M115 131.499 115 110" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M122.338 136.77 115.5 132.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="129.5" y="144.5" width="11" height="25" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M127.5 105C127.5 100.858 130.634 97.5001 134.5 97.5001 138.366 97.5001 141.5 100.858 141.5 105 141.5 109.142 138.366 112.5 134.5 112.5 130.634 112.5 127.5 109.142 127.5 105Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M124.5 105.5C124.5 99.9772 128.977 95.5001 134.5 95.5001 140.023 95.5001 144.5 99.9772 144.5 105.5 144.5 111.023 140.023 115.5 134.5 115.5 128.977 115.5 124.5 111.023 124.5 105.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M63.2217 154.5 86.9423 154.5 86.9423 160.04 91.5001 160.04 91.5001 176.399 86.9423 176.399 86.9423 182.5 63.2217 182.5 63.2217 176.399 56.5001 176.399 56.5001 160.04 63.2217 160.04Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" fill-rule="evenodd" />
+		<rect x="36.5001" y="187.5" width="75" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M0 0 27.1967 15.4155" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 36.5001 191.916)" />
+		<path d="M88.5001 177.5 111.217 191.95" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="-13.5001" y="157.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="-9.50005" y="157.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="28.5001" y="156.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="32.5001" y="156.5" width="3" height="23" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="-7.50005" y="164.5" width="35.0001" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="6.50005" y="132.5" width="11" height="21" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="-0.500051" y="124.5" width="24.0001" height="8" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="4.50005" y="117.5" width="14" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="-7.50005" y="139.5" width="14.0001" height="7" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M-8 134.499-8.0001 113" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M-0.662152 138.77-7.50005 134.5" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="6.50005" y="146.5" width="11" height="26" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M4.50005 107.5C4.50005 103.634 7.85792 100.5 12.0001 100.5 16.1422 100.5 19.5001 103.634 19.5001 107.5 19.5001 111.366 16.1422 114.5 12.0001 114.5 7.85792 114.5 4.50005 111.366 4.50005 107.5Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1.50005 108C1.50005 102.201 5.9772 97.5001 11.5001 97.5001 17.0229 97.5001 21.5001 102.201 21.5001 108 21.5001 113.799 17.0229 118.5 11.5001 118.5 5.9772 118.5 1.50005 113.799 1.50005 108Z" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<rect x="-64.5001" y="146.5" width="24" height="41" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="-40.5001" y="146.5" width="11" height="41" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="-28.5001" y="159.5" width="8" height="13" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M266 101 266 237.337" stroke="#FFD966" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="8 6" fill="none" fill-rule="evenodd" />
+		<text font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="400" font-size="19" transform="translate(93.5488 229)">
+			Secondary
+			<tspan x="83.2733" y="0">
+				Lin
+			</tspan>
+			e
+			<tspan x="209.892" y="1">
+				Primary Line
+			</tspan>
+		</text>
+		<path d="M506 107 506 243.337" stroke="#FFD966" stroke-width="2" stroke-miterlimit="8" stroke-dasharray="8 6" fill="none" fill-rule="evenodd" />
+		<rect x="1246.5" y="177.5" width="6" height="12" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1243.5" y="189.5" width="12" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1245.5" y="193.5" width="8" height="3" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<rect x="1252.5" y="181.5" width="7" height="4" stroke="#2F528F" stroke-width="1.33333" stroke-miterlimit="8" fill="#4472C4" />
+		<path d="M1259 187 1259 198.766" stroke="#4472C4" stroke-width="2" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M1255.5 185.5 1259.05 187.837" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+		<path d="M0 0 14.9778 34.728" stroke="#4472C4" stroke-width="0.666667" stroke-miterlimit="8" fill="none" fill-rule="evenodd" transform="matrix(1 0 0 -1 134.5 95.228)" />
+		<rect x="150.5" y="35.5001" width="132" height="45" stroke="#000000" stroke-width="1.33333" stroke-miterlimit="8" />
+		<text id="pres-1" description="this is for primaryline pressure1" fill="#FF00FF" font-family="Calibri,Calibri_MSFontService,sans-serif" font-weight="700" font-size="24" transform="translate(171.786 65)">
+			54.04 psi
+		</text>
+	</g>
+</svg>

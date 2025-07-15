@@ -1,0 +1,228 @@
+
+    const sections = [
+      {
+        title: "GRA",
+        cards: [
+          {
+            heading: "Laser",
+            status: "Auto",
+            instanceId: "db6074fd-d427-4c58-bebd-445db9110e73",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [1, 0], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Total IP", value: "100" },
+              { label: "Total Pressed", value: "50" },
+            ],
+          },
+          {
+            heading: "P1",
+            instanceId: "591764f9-5ce6-4ca3-ba5e-3c7e18e38d90",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [2, 1], // 1: green, 0: gray, 2: red
+            statistics: [{ label: "Inspection Reports", value: "10" }],
+          },
+          {
+            heading: "P2",
+            instanceId: "cbae6cff-55a9-4972-8b4e-173bf7308495",
+            status: "Auto",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 3,
+            robotStatus: [1, 2, 0], // 1: green, 0: gray, 2: red
+            statistics: [{ label: "Total Loaded IP", value: "200" }],
+          },
+          {
+            heading: "P3",
+            instanceId: "890482da-ef78-4792-bf08-bd10692d7248",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [0, 1], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Total Press PC", value: "150" },
+              { label: "Total Part Count", value: "300" },
+            ],
+          },
+        ],
+      },
+      {
+        title: "GCS",
+        cards: [
+          {
+            heading: "Laser",
+            status: "Manual",
+            instanceId: "",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [1, 2], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "R1 Laser M/C Count", value: "5" },
+              { label: "R2 Laser M/C Count", value: "3" },
+              { label: "Laser M/C 1 Unloading Count", value: "20" },
+              { label: "Input Connector Loading Count", value: "15" },
+            ],
+          },
+          {
+            heading: "P1",
+            instanceId: "",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 4,
+            robotStatus: [1, 0, 2, 1], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Total Rounded Parts", value: "100" },
+              { label: "Total Mixture Base Count", value: "50" },
+              { label: "Top Parts", value: "30" },
+              { label: "Bottom Parts", value: "20" },
+              { label: "Fix & Base Count", value: "10" },
+              { label: "Total OK Parts", value: "80" },
+              { label: "Total Not OK Parts", value: "20" },
+            ],
+          },
+        ],
+      },
+      {
+        title: "SPC",
+        cards: [
+          {
+            heading: "Laser",
+            instanceId: "afeb8e3c-00ec-4452-8620-17d5df5ca3aa",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [1, 0], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Form Min Part Count", value: "50" },
+              { label: "1st Form Min OK Part", value: "40" },
+              { label: "1st Form Min Not OK Part", value: "10" },
+            ],
+          },
+          {
+            heading: "P-1",
+            instanceId: "",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 3,
+            robotStatus: [1, 2, 0], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Total Parts", value: "200" },
+              { label: "Form OK Parts", value: "180" },
+              { label: "Form Not OK Parts", value: "20" },
+            ],
+          },
+          {
+            heading: "P 2",
+            instanceId: "",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [1, 1], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Form Min Part Count", value: "100" },
+              { label: "Total OK Parts", value: "90" },
+              { label: "Total Not OK Parts", value: "10" },
+            ],
+          },
+        ],
+      },
+    ];
+
+
+
+
+    {
+        title: "GCS",
+        cards: [
+          {
+            heading: "Laser",
+            status: "Manual",
+            instanceId: "",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [1, 2], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "R1 Laser M/C Count", value: "5" },
+              { label: "R2 Laser M/C Count", value: "3" },
+              { label: "Laser M/C 1 Unloading Count", value: "20" },
+              { label: "Input Connector Loading Count", value: "15" },
+            ],
+          },
+          {
+            heading: "P1",
+            instanceId: "",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 4,
+            robotStatus: [1, 0, 2, 1], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Total Rounded Parts", value: "100" },
+              { label: "Total Mixture Base Count", value: "50" },
+              { label: "Top Parts", value: "30" },
+              { label: "Bottom Parts", value: "20" },
+              { label: "Fix & Base Count", value: "10" },
+              { label: "Total OK Parts", value: "80" },
+              { label: "Total Not OK Parts", value: "20" },
+            ],
+          },
+        ],
+      },
+      {
+        title: "SPC",
+        cards: [
+          {
+            heading: "Laser",
+            instanceId: "afeb8e3c-00ec-4452-8620-17d5df5ca3aa",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [1, 0], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Form Min Part Count", value: "50" },
+              { label: "1st Form Min OK Part", value: "40" },
+              { label: "1st Form Min Not OK Part", value: "10" },
+            ],
+          },
+          {
+            heading: "P-1",
+            instanceId: "",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 3,
+            robotStatus: [1, 2, 0], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Total Parts", value: "200" },
+              { label: "Form OK Parts", value: "180" },
+              { label: "Form Not OK Parts", value: "20" },
+            ],
+          },
+          {
+            heading: "P 2",
+            instanceId: "",
+            status: "Manual",
+            robot_system_status: { red: true, green: false },
+            all_robot_system_status: { red: false, green: true },
+            robotCount: 2,
+            robotStatus: [1, 1], // 1: green, 0: gray, 2: red
+            statistics: [
+              { label: "Form Min Part Count", value: "100" },
+              { label: "Total OK Parts", value: "90" },
+              { label: "Total Not OK Parts", value: "10" },
+            ],
+          },
+        ],
+      },
