@@ -6,6 +6,7 @@ const nextConfig: NextConfig = {
   // assetPrefix: '/dabur/',
   // distDir: "build",
   // output: "standalone",
+    trailingSlash: true,
   typescript: {
     ignoreBuildErrors: true,
   },

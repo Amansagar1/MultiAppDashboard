@@ -2,10 +2,11 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  // basePath: "/furnace",
+  basePath: "/furnace",
   //  assetPrefix: '/furnace/',
   // distDir: "build",
   // output: "standalone",
+      trailingSlash: true,
   typescript: {
     ignoreBuildErrors: true,
   },

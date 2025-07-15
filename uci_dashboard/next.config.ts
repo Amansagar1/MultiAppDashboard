@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   basePath: "/uci",
-   assetPrefix: '/uci',
-  distDir: "build",
-  output: "standalone",
+   assetPrefix: '/uci/',
+  // distDir: "build",
+  // output: "standalone",
+      trailingSlash: true,
   typescript: {
     ignoreBuildErrors: true,
   },
