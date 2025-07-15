@@ -3,9 +3,9 @@
 const nextConfig: NextConfig = {
   /* config options here */
   basePath: "/dabur",
-  assetPrefix: '/dabur/',
-  distDir: "build",
-  output: "standalone",
+  // assetPrefix: '/dabur/',
+  // distDir: "build",
+  // output: "standalone",
   typescript: {
     ignoreBuildErrors: true,
   },
